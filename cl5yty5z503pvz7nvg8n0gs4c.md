@@ -29,7 +29,7 @@ A network communication protocol allows basic data transfers between network dev
 - **Bluetooth:** A Bluetooth protocol can connect devices with different functions like laptops, mobile phones, cameras, printers, and tablets.
 - **File transfer protocol (FTP):** FTP protocols allow devices to share files between hosts. They enable devices to share large files, resume sharing after an interruption, recover lost files, and schedule file transfers.
 - **Transmission control protocol/internet protocol (TCP/IP):** This protocol provides reliable delivery to applications and ensures that the message arrives at the correct location, on time, and without duplication.
-- **Hypertext transfer protocol (HTTP)**[: A protocol](https://www.indeed.com/career-advice/interviewing/http-interview-questions) used for distributed and collaborative hypermedia information systems that allow for sharing data like text files, images, and videos over the internet.
+- **Hypertext transfer protocol (HTTP)**: A protocol used for distributed and collaborative hypermedia information systems that allow for sharing data like text files, images, and videos over the internet.
 - **Simple mail transfer protocol (SMTP):** The SMTP transfers emails between devices and notifies the user of incoming electronic messages.
 
 ### **Network security protocols**
