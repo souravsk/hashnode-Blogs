@@ -1,6 +1,14 @@
-## Linux File System 101
+## Linux File System
 
-So we know that the **"ls"** list command will tell us all the stuff in our current working directory. We also learn cd we can change directories to something else that we’re not like cd desktop now we’re in the desktop if I type in **“pwd”** it’ll also tell me where I am I’m in desktop because we just went there and we even saw that we type in cd .. it’ll take us back so now we’re back where we started and but if we going cd .. cd.. cd..  we go back and back until we can’t go back anymore which is where we’re at right now **“/”** that’s a root if I type in **“pwd”** that’s where we are the root of the file system that’s where it all started and that’s where we’re starting our Blog Today.
+In this Blog, we will get to know what Linux Files are and their uses. We will mainly focus on the files that are in Root directories, which contain many different files and directories. how we use them and what is stored init.
+
+### What is the Linux File System?
+Linux file system is generally a built-in layer of a Linux operating system used to handle the data management of the storage. It helps to arrange the file on the disk storage. It manages the file name, file size, creation date, and much more information about a file.
+If we have an unsupported file format in our file system, we can download software to deal with it.
+
+### Let's go to Root Directories 
+
+So we know that the **"ls"** list command will tell us all the stuff in our current working directory. We also learn cd we can change directories to something else that we’re not like cd desktop now we’re in the desktop if I type in **“pwd”** it’ll also tell me where I am I’m in desktop because we just went there and we even saw that we type in cd .. it’ll take us back so now we’re back where we started and but if we going cd .. cd.. cd..  we go back and back until we can’t go back anymore which is where we’re at right now **“/”** that’s a root if I type in **“pwd”** that’s where we are the root of the file system that’s where it all started and that’s where we’re beginning our Blog Today.
 ![to_root.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656945032396/DjvvVGoAG.png align="left")
 
 So what’s at the root of the file system 
