@@ -346,5 +346,4 @@ $ curl $APISERVER --cert encoded-cert --key encoded-key --cacert encoded-ca
 
 Thank You for reading my blog. Hope you understand what I'm trying to explain. 
 If You like what are you reading then please follow my page and also on twitter and do share it.
-
-My next Bolg will be on Authentication, Authorization, and Admission Control in kubernetes so say tune for that it will be out on upcoming Thurday. 
+ 
