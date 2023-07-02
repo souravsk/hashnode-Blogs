@@ -5,8 +5,8 @@ seoDescription: "WebAssembly is a powerful new technology that is poised to revo
 datePublished: Sun Jul 02 2023 10:28:52 GMT+0000 (Coordinated Universal Time)
 cuid: cljlahxmk00040al62gkp89gu
 slug: wasm-in-cloud
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1688293145755/bdb5f183-f490-4574-a25a-e4e43310f10a.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1688293434966/8350973e-eb62-4518-a81a-d2509a9dda2d.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1688294666645/8bc625fd-8925-4306-83b4-9a677eafce29.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1688294724815/544ffc5c-7e9e-493a-ba0c-1c24f9d958ee.png
 tags: javascript, webassembly, developer, devops, wemakedevs
 
 ---
@@ -23,7 +23,7 @@ Today, we're going to take things a step further and explore the incredible poss
 
 So, I gonna talk about 4 different Domains where I think WebAssembly is going to flourish. I'm going to lean a little bit toward one because I'm particularly passionate about that one but I will cover all four and look like this
 
-First browser of course the place it was born for and it really does have a lot to offer there, then the Internet of things, then Plugins and extensions, and then finally Cloud there I will spend more time explaining because I love it. Let's go
+First browser of course the place it was born for and it does have a lot to offer there, then the Internet of things, then Plugins and extensions, and then finally Cloud there I will spend more time explaining because I love it. Let's go
 
 <iframe src="https://giphy.com/embed/JyQNXZ6IovFFhO4biU" width="480" height="270" class="giphy-embed"></iframe>
 
@@ -67,7 +67,7 @@ So for me, Cloud is the most exciting because if you have read my previous blog 
 
 So first look at it from the start in cloud computing and what is the problem we are facing now. we are now looking at the world of cloud computing and going there are two big buckets into which cloud computing Falls right now
 
-* **virtual machines -** Virtual machines (VMs) are powerful computing environments that run from the kernel and drivers all the way up to the application layer. They encompass a comprehensive stack of software, providing a complete and isolated execution environment for applications.
+* **virtual machines -** Virtual machines (VMs) are powerful computing environments that run from the kernel and drivers up to the application layer. They encompass a comprehensive stack of software, providing a complete and isolated execution environment for applications.
     
     While VMs offer immense capabilities and can handle a wide range of tasks, they do have some limitations. One of the key drawbacks is their startup time, which can take several minutes. This is because a VM needs to boot up the entire operating system and associated components before running the desired application.
     
@@ -77,7 +77,7 @@ So first look at it from the start in cloud computing and what is the problem we
     
 * **Serverless -** Serverless is a relative newcomer, with a very simple promise - you relinquish control of everything to the cloud provider other than your application code itself. In other words, you deploy your code (functions) to the cloud and they take care of provisioning a suitable runtime.
     
-    In order for a cloud provider to execute serverless functions, it still needs to provision hardware, operating systems and suitable runtime environments. As a result, there is some significant overhead to servicing requests. This provisioning time is visible to the consumer as a noticeable delay in response when additional resources are required to service a request - an effect known as a ‘cold start’.
+    For a cloud provider to execute serverless functions, it still needs to provision hardware, operating systems and suitable runtime environments. As a result, there is some significant overhead to servicing requests. This provisioning time is visible to the consumer as a noticeable delay in response when additional resources are required to service a request - an effect known as a ‘cold start’.
     
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1688292358084/a1dfd5f2-84a6-4dcf-b9e5-415dde279fd7.png align="center")
