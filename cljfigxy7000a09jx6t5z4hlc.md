@@ -1,11 +1,12 @@
 ---
-title: "Introduction to WebAssebley aka WASM"
-seoTitle: "New tech WebAssebly"
+title: "Introduction to WebAssembly aka WASM"
+seoTitle: "New tech WebAssembly"
 seoDescription: "WebAssembly is a new technology that allows us to run code written in other languages on the web, at near-native speed."
 datePublished: Wed Jun 28 2023 09:25:26 GMT+0000 (Coordinated Universal Time)
 cuid: cljfigxy7000a09jx6t5z4hlc
 slug: intro-wasm
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1687943620384/07401ade-7d0f-4da9-8ab3-3dae6d99d954.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1688295151151/39eb5440-f972-4108-9498-2423040dc752.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1688295098322/9a688c68-ca01-4ac8-9ffb-217259872045.png
 tags: javascript, webassembly, devops, wasm, wemakedevs
 
 ---
@@ -36,7 +37,7 @@ WebAssembly is a new technology that allows us to run code written in other lang
 
 Here are some of the reasons why we need WebAssembly:
 
-* **Performance:** WebAssembly code can be executed much faster than JavaScript code. This is because WebAssembly is compiled to native machine code, while JavaScript is interpreted by the browser.
+* **Performance:** Web assembly code can be executed much faster than JavaScript code. This is because WebAssembly is compiled to native machine code, while JavaScript is interpreted by the browser.
     
 * **Security:** WebAssembly is a secure technology. It is sandboxed from the rest of the web application, so it cannot access the user's computer or the internet without permission.
     
