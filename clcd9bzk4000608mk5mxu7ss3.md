@@ -1,12 +1,22 @@
-# How to use Minikube on GitHub Codespaces
+---
+title: "How to use Minikube on GitHub Codespaces"
+seoTitle: "minikube on Github Codespaces"
+datePublished: Sun Jan 01 2023 10:56:10 GMT+0000 (Coordinated Universal Time)
+cuid: clcd9bzk4000608mk5mxu7ss3
+slug: how-to-use-minikube-on-github-codespaces
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1672570369549/71d6dc30-dbe3-4c28-bb45-2a2b99417b8f.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1672570479741/0639de93-78b0-4087-a6c6-6f62ea580ef4.png
+tags: github, codespaces, minikube, wemakedevs, github-codespaces
 
-Hey, Everyone So this blog is beneficial for everyone but it is very useful for Students like me who are using a decade-old laptop which has a very poor configuration like 4GB Ram with intel i3 Gen3 2 core. A system like this can and will create so many problems while your Learning journey and it will put you in a situation where you will start blaming your system and at a point, you will stop learning which is not good.
+---
+
+Hey, Everyone this blog is beneficial for everyone but it is very useful for Students like me who are using a decade-old laptop which has a very poor configuration like 4GB Ram with Intel i3 Gen3 2 core. A system like this can and will create so many problems while your Learning journey and it will put you in a situation where you will start blaming your system and at a point, you will stop learning which is not good.
 
 And I Know many of you will never face this problem but some of us face these problems mostly Students like me who don't have enough financial source to purchase a new machine.
 
 And I also know many students say that it's enough system resources for their work or project but Students like me who want to pursue careers in DevOps, SRE, Platform Engineer, etc. So to make projects, test applications and create pipelines we use VM which takes so many resources. And Minikube is one of the software which uses VM to spin a Kubernetes Cluster in your local machine so that you can practice or test your applications.
 
-So for those Students or anyone whose Machines don't have enough resources or who doesn't want to waste their time downloading minikube and Kubernetes now they can use GitHub Codespaces to spin up minikube clusters for their projects or practices. So Let's See How First What is GitHub Codespaces?
+So for those Students or anyone whose Machines don't have enough resources or who doesn't want to waste their time downloading minikube and Kubernetes now, they can use GitHub Codespaces to spin up minikube clusters for their projects or practices. So Let's See How First What is GitHub Codespaces?
 
 # What is GitHub Codespaces?
 
@@ -16,7 +26,7 @@ Each codespace runs on a virtual machine hosted by GitHub. You can choose the ty
 
 You can connect to your codespaces from your browser, from Visual Studio Code, from the JetBrains Gateway application, or by using GitHub CLI.
 
-So it basically means that you can create your project just by using a browser you don't have to have a good machine with you to do so.
+So it means that you can create your project just by using a browser you don't have to have a good machine with you to do so.
 
 I hope you already know what is Minikube if In case you don't then don't worry I have already publicised blog on a Minikube to read that [Click Here](https://souravk.hashnode.dev/accessing-minikube-with-kubectl) and If want to deep dive into Kubernetes Then [Click Here](https://souravk.hashnode.dev/series/kubernetes) to go to the Kubernetes Series.
 
@@ -46,7 +56,7 @@ You can create and use a codespace for any repository you can clone. You can als
 
 #### Step:- A
 
-Open Your Repository for which you want to create the codespace for it. For me it's this one.
+Open Your Repository for which you want to create the codespace for it. For me, it's this one.
 
 Click On the **Code** button
 
@@ -66,11 +76,11 @@ Click On the Create **Codespace on main** (Main is my branch name. It will show 
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672493718032/c3b50214-a4e9-49d7-bc1f-a85874decc56.png align="center")
 
-WOW!! It's our vscode. Now you can work on your project without thinking about anything on any machine and without worrying about the system.
+WOW!! It's our vs code. Now you can work on your project without thinking about anything on any machine and without worrying about the system.
 
 This is one way of creating a codespace but there is another way also let's just take a quick look at it.
 
-#### ***Create a codespace by going to the Codespace Page***
+## ***Create a codespace by going to the Codespace Page***
 
 #### Step:- A
 
@@ -147,7 +157,3 @@ And that's it we have started the Minikube and see that kubectl is also configur
 # THE END
 
 That's all for today hope you learn something today please do share it with your friends so that they can also get to about the GitHub Codespace and use it as there need.
-
-Thank You for reading and one more thing I'm looking for a job so if you know someone who is hiring or your company is hiring let me know.
-
-Email:- souravk326@gmail.com
