@@ -4,7 +4,7 @@ seoTitle: "The Power of git branches"
 seoDescription: "Git Branches make collaboration so much easier."
 datePublished: Thu Aug 17 2023 10:42:56 GMT+0000 (Coordinated Universal Time)
 cuid: cllf19791000k0aldbnn4c4q6
-slug: unlocking-creativity-and-collaboration-the-power-of-git-branches
+slug: git-branch
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692178007350/4bf05936-a26d-42bd-bc50-4fa5fa261d20.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1692268917692/47e73ee5-91ac-41bb-aa18-bf41fd40626e.png
 tags: github, git, devops, gitlab, gitcommands
