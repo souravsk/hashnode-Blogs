@@ -4,7 +4,7 @@ seoTitle: "10 must know git command"
 seoDescription: "As a developer, you must know these 10 basic git commands."
 datePublished: Wed Aug 16 2023 06:55:18 GMT+0000 (Coordinated Universal Time)
 cuid: cllddolwh003909lc7zsxbb4q
-slug: mastering-the-essentials-a-beginners-guide-to-git-basic-commands
+slug: git-commands
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692168749885/763dd956-e534-4c0f-9921-d1ecc02addf5.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1692168800060/ee6f553f-0ced-41d4-b8ed-57b839247d2c.png
 tags: github, git, learning, gitcommands, wemakedevs
