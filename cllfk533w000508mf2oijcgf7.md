@@ -3,7 +3,7 @@ title: "Exploring the Heart of Computing: A Deep Dive into Operating System Arch
 seoTitle: "Operating System Architecture"
 datePublished: Thu Aug 17 2023 19:31:37 GMT+0000 (Coordinated Universal Time)
 cuid: cllfk533w000508mf2oijcgf7
-slug: exploring-the-heart-of-computing-a-deep-dive-into-operating-system-architecture-and-features
+slug: os
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692274955729/60e3ea59-7894-47a2-859e-302a44125e08.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1692300656826/a0e0d9af-2686-4eee-84b9-f4c9ae45e153.png
 tags: operating-system, devops, os, wemakedevs, operatingsystems
