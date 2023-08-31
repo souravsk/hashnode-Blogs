@@ -10,7 +10,7 @@ tags: linux, linux-for-beginners, linux-basics, linux-commands, wemakedevs
 
 ---
 
-Hey everyone
+Hey everyone in today's blog we are going to learn about the Linux file permission that is used to give access to the users and groups and many other commands that are related to file permissions.
 
 # Linux filesystem
 
