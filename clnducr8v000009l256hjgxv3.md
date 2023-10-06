@@ -1,5 +1,5 @@
 ---
-title: "Blog on Kubernetes Secrets"
+title: "Kubernetes Secrets"
 seoTitle: "Save you secrets with Kubernetes Secrets"
 datePublished: Fri Oct 06 2023 00:01:23 GMT+0000 (Coordinated Universal Time)
 cuid: clnducr8v000009l256hjgxv3
